@@ -1,0 +1,17 @@
+black==24.10.0
+click==8.1.7
+Faker==33.0.0
+Markdown==2.6.11
+mdtree==0.7
+mypy-extensions==1.0.0
+packaging==24.1
+pathspec==0.12.1
+platformdirs==4.3.6
+psycopg2==2.9.10
+psycopg2-binary==2.9.10
+Pygments==2.18.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+six==1.16.0
+SQLAlchemy==2.0.36
+typing_extensions==4.12.2
