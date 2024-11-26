@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+ENV/
+
+.idea/
+.vscode/
+
+# Логи
+*.log
+
+*.egg
+*.egg-info
+dist/
+build/
+*.tar.gz
+*.whl
+
+*.swp
+*~
+.DS_Store
+
+*.env
